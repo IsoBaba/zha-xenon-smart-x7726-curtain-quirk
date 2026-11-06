@@ -21,6 +21,12 @@ _The screenshot was taken with my local copy, whose entity names are in Turkish.
 
 ## Tested setup
 
+Installation method: Home Assistant OS
+Core: 2026.11.0
+Supervisor: 2026.10.5
+Operating System: 18.4
+
+
 | Item | Value |
 |---|---|
 | Device | Xenon Smart X7726 |
@@ -109,7 +115,7 @@ Issues and PRs are welcome, especially for other `_TZE...` variants and for iden
 
 ## License
 
-_Add a LICENSE file (for example MIT) and name it here._
+Released under the [MIT License](LICENSE).
 
 ## Credits
 
